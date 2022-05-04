@@ -4,6 +4,7 @@
   "description": "My intern test at FireGroup",
   "main": "index.ts",
   "scripts": {
+    "start": "tsc && node ./build/index.js",
     "test": "jest"
   },
   "repository": {
@@ -32,5 +33,11 @@
     "ts-jest": "^28.0.1",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@types/inquirer": "^8.2.1",
+    "@types/shelljs": "^0.8.11",
+    "inquirer": "^8.2.4",
+    "shelljs": "^0.8.5"
   }
 }
