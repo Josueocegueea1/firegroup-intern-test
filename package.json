@@ -1,0 +1,34 @@
+{
+  "name": "firegroup-intern-test",
+  "version": "0.1.0",
+  "description": "My intern test at FireGroup",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmq24/firegroup-intern-test.git"
+  },
+  "keywords": [
+    "firegroup",
+    "node",
+    "nodejs",
+    "javascript",
+    "js",
+    "typescript",
+    "ts",
+    "intern"
+  ],
+  "author": "Quang Pham <quangpham.245@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmq24/firegroup-intern-test/issues"
+  },
+  "homepage": "https://github.com/pmq24/firegroup-intern-test#readme",
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "jest": "^28.0.3",
+    "typescript": "^4.6.4"
+  }
+}
