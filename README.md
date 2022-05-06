@@ -13,13 +13,19 @@
 git clone https://github.com/pmq24/firegroup-intern-test.git
 ```
 
-2. Run the project
+1.  Install dependencies via NPM
+
+```console
+npm ci
+```
+
+1.  Run the project
 
 ```console
 npm start
 ```
 
-3. (Optional) Run the test
+1. (Optional) Run the test
 
 ```console
 npm test
